@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "493666751687",
+    "project_id": "project-red-277ab",
+    "storage_bucket": "project-red-277ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493666751687:android:a1e61a3289341d6de79ae2",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.w9577759.red"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493666751687-8teg8q90rfrnn73scli71hjrp47rpu28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.ac.tees.w9577759.red",
+            "certificate_hash": "7cec0f8a7a27d2e304ad0b5e9da7feeec9d7a458"
+          }
+        },
+        {
+          "client_id": "493666751687-ggkpt7tmijobfum7d0ajejeiqc3vg863.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnd3fijh86qXNOgjbhgzy_NuUQQFoj-so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493666751687-ggkpt7tmijobfum7d0ajejeiqc3vg863.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
